@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+google-genai
+langgraph
+langchain-core
+pydantic
+pandas
+numpy
+scikit-learn
